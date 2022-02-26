@@ -76,3 +76,22 @@ html,body{
     font-weight: bold;
     margin:0;
 }
+@media (max-width:1018px) and (min-width:425px){
+    .clk{
+        font-size: 1.5em;
+        font-weight: bold;
+        margin-right: 1em;
+        margin-right: 1em;
+    }
+    .dot{        
+        font-size: 2em;      
+    }
+    .btns{
+        width: 30%;
+        padding:1em;
+        margin:1em;
+        border:none;
+        font-size: 1em;
+        border-radius:3em;
+    }
+}
