@@ -19,7 +19,7 @@ function init() {
         sec=0;
         seconds.innerHTML=`${sec} sec`;
         minutes.innerHTML=`${min} min`;
-        hour.innerHTML=`${hr} hr`;
+        hour.innerHTML=`${hr}  hr`;
     })
 
     startBtn.addEventListener("click",()=>{
